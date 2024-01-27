@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702807228 source:d:\code block\codeblocks\ttud samsung\greedy\cbus large size\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
